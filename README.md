@@ -21,5 +21,46 @@ https://hub.docker.com/repository/docker/kegp/custom-nginx/general
 
 
 ### Задача 2
+
+![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_690.png).
+![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_691.png).
+
+
+### Задача 3
+
+
+  
+![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_692.png).
+![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_693.png).
+![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_694.png).
+![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_695.png).
+![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_696.png).
+
+
+
+  
+### Задача 4
+
+  
+![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_697.png).
+![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_698.png).
+
+
+  
+
+### Задача 5
+  
+  
+  
+![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_699.png).
+![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_700.png).
+![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_701.png).
+![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_702.png).
+![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_703.png).
+![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_704.png).
+![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_705.png).
+
+
+
   
   
