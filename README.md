@@ -28,11 +28,16 @@ https://hub.docker.com/repository/docker/kegp/custom-nginx/general
 
 ### Задача 3
 
-
+Контейнер остановился, потому что его главный процесс (nginx) получил сигнал SIGINT (Ctrl+C) и завершил свою работу. Когда главный процесс контейнера останавливается, Docker автоматически переводит контейнер в статус Exited
   
 ![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_692.png).
 ![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_693.png).
 ![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_694.png).
+
+
+При запуске контейнера проброшен порт хоста 8080 на порт 80 контейнера (-p 127.0.0.1:8080:80). Это статическое правило, которое не меняется автоматически при изменении конфигурации внутри контейнера. Мы же внутри контейнера перенастроили Nginx слушать порт 81. Трафик с хоста приходит на порт 80 контейнера, но там никто не отвечает (nginx слушает 81-й порт). Внутри контейнера сервер доступен на порту 81, но этот порт не опубликован наружу.  
+  
+  
 ![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_695.png).
 ![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_696.png).
 
