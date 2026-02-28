@@ -55,12 +55,19 @@ https://hub.docker.com/repository/docker/kegp/custom-nginx/general
 
 ### Задача 5
   
+По умолчанию - compose.yaml (предпочтительный) или compose.yml, который размещается в рабочем каталоге. Compose также поддерживает docker-compose.yaml и docker-compose.yml для обеспечения обратной совместимости с более ранними версиями. Если оба файла существуют, Compose предпочитает канонический compose.yaml.
+  
   
   
 ![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_699.png).
 ![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_700.png).
 ![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_701.png).
 ![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_702.png).
+  
+  
+Docker Compose обнаружил, что в текущем проекте (который теперь использует только docker-compose.yaml) есть контейнеры, которые были созданы ранее, но не описаны в текущем Compose-файле. Это контейнеры portainer и registry, они называются "сиротами" (orphans)
+  
+  
 ![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_703.png).
 ![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_704.png).
 ![alt text](https://github.com/SLzDevOps/netology-virt-3/blob/main/screenshots/Screenshot_705.png).
