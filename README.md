@@ -1,7 +1,10 @@
-# Домашнее задание по занятию "Оркестрация группой Docker контейнеров на примере Docker Compose." - `Фомичев Анатолий`
+# Домашнее задание по занятию "Практическое применение Docker" - `Фомичев Анатолий`
 
 
 ## Ссылка на домашнее задание - https://github.com/netology-code/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/README.md
+
+
+## Ссылка на репозиторий с ДЗ - https://github.com/SLzDevOps/shvirtd-example-python
 
 
 ### Задача 1
